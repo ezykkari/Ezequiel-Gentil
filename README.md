@@ -35,7 +35,7 @@
 
 ## 📊 Estatísticas do GitHub
 
-![Ezequiel GitHub stats](https://github-readme-stats.vercel.app/api?username=ezequielgentil&show_icons=true&theme=tokyonight)
+![Ezequiel GitHub stats](https://github-readme-stats.vercel.app/api?username=ezykkari&show_icons=true&theme=tokyonight)
 
 ---
 
