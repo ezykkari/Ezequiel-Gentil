@@ -1,23 +1,52 @@
-# 👋 Olá! Eu sou Ezequiel Gentil
+<h1 align="center">Olá 👋 Eu sou Ezequiel Gentil</h1>
 
-🎓 Estudante de Tecnologia da Informação  
-💻 Interessado em programação e desenvolvimento de software  
-🚀 Atualmente estudando Python, HTML e CSS
+<p align="center">
+💻 Estudante de Tecnologia da Informação <br>
+🚀 Iniciando minha jornada na programação <br>
+📚 Atualmente estudando Python, HTML e CSS
+</p>
+
+---
+
+## 👨‍💻 Sobre mim
+
+- 🎓 Estudante de Tecnologia da Informação  
+- 💻 Interessado em desenvolvimento de software  
+- 📚 Aprendendo programação e desenvolvimento web  
+- 🚀 Buscando evoluir todos os dias na área de tecnologia  
 
 ---
 
 ## 🚀 Tecnologias que estou aprendendo
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+<p align="left">
 
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50"/>
 
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50"/>
+
+</p>
 
 ---
 
-## 📬 Contato
+## 📊 Estatísticas do GitHub
 
-![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)
+![Ezequiel GitHub stats](https://github-readme-stats.vercel.app/api?username=SEUUSUARIO&show_icons=true&theme=tokyonight)
 
-![Gmail](https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail)
+---
+
+## 📫 Contato
+
+<a href="https://linkedin.com">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
+
+<a href="mailto:seuemail@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+</a>
+
+---
+
+⭐ Obrigado por visitar meu perfil!
