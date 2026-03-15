@@ -1,6 +1,8 @@
 <h1 align="center">Olá 👋 Eu sou Ezequiel Gentil</h1>
 
 <p align="center">
+<img src="https://readme-typing-svg.herokuapp.com/?color=00F7FF&size=25&center=true&vCenter=true&width=500&lines=Estudante+de+Tecnologia;Aprendendo+Programação;Python+HTML+CSS">
+</p>
 💻 Estudante de Tecnologia da Informação <br>
 🚀 Iniciando minha jornada na programação <br>
 📚 Atualmente estudando Python, HTML e CSS
@@ -33,7 +35,7 @@
 
 ## 📊 Estatísticas do GitHub
 
-![Ezequiel GitHub stats](https://github-readme-stats.vercel.app/api?username=SEUUSUARIO&show_icons=true&theme=tokyonight)
+![Ezequiel GitHub stats](https://github-readme-stats.vercel.app/api?username=ezequielgentil&show_icons=true&theme=tokyonight)
 
 ---
 
